@@ -1,8 +1,18 @@
-# Next.js-s3-CloudFront-deploy
-Next.jsをs3とCloudFrontを使ってデプロイしてみる
+# 目的
+Next.jsとs3とCloudFrontとgit hubactions使ってwebアプリをデプロイしてみる
 
-参考記事：
+
+メイン参考記事：
 https://zenn.dev/hamo/articles/0a96c4d27097bd
+
+関連記事：格安でAWSでWEBアプリを構築する方法色々
+https://qiita.com/y_inoue15/items/c637dd2e269f7ab50e38
+https://tmokmss.hatenablog.com/entry/20220611/1654931458
+https://qiita.com/masahito-suzuki/items/8e37278174df47e777de
+https://zenn.dev/soshimiyamoto/articles/dcb51cbd5725e0
+https://qiita.com/kd9951/items/d3c08fe6f869c20c2ab3
+
+番外ランニングコスト見積編：https://giginc.co.jp/blog/giglab/aws-system
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
